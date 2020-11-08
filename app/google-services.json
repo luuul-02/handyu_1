@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148452666348",
+    "firebase_url": "https://handyu1.firebaseio.com",
+    "project_id": "handyu1",
+    "storage_bucket": "handyu1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148452666348:android:c058d5de76ba875a002ec9",
+        "android_client_info": {
+          "package_name": "com.example.handyu_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148452666348-rummbbkhusiljc34ksu01v3bhcsft0mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHzqgjLxThZl6_A-2tArtInPBTrpG6zXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148452666348-rummbbkhusiljc34ksu01v3bhcsft0mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

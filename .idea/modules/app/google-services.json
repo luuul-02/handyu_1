@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70605553633",
+    "firebase_url": "https://handyu1-b5c51.firebaseio.com",
+    "project_id": "handyu1-b5c51",
+    "storage_bucket": "handyu1-b5c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70605553633:android:cdabb3804b1b8b267adca0",
+        "android_client_info": {
+          "package_name": "com.example.handyu_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70605553633-kiooa3p29n55rkioft9qj80fe2mvpgrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handyu_1",
+            "certificate_hash": "57fc11cd22ac0bb361f985753a97337688b0e37c"
+          }
+        },
+        {
+          "client_id": "70605553633-3udlijaecclqi6kes1i64d57ijcjttlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMssSseH-eU-VNF73dUgvk8CHCkUyWodE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70605553633-3udlijaecclqi6kes1i64d57ijcjttlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
